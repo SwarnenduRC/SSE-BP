@@ -1,4 +1,4 @@
-# DataStructures
+# SSE-BP
  Simple test application to test a problem statement on Singly linked list
 ## Description
 It is a repo which tests the soultion to a problem statement on linked list
